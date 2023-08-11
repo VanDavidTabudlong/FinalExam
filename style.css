@@ -1,0 +1,74 @@
+/* Add your general styling here */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .mybg {
+    background-color: #333; /* Navbar background color */
+  }
+  
+  /* Style for Hero Section */
+  .hero {
+    background-color: #f4f4f4;
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    color: #333;
+  }
+  
+  /* Style for Student Profile Section */
+  .bg2 {
+    background-color: #222;
+  }
+  
+  .bg2 .container {
+    padding-top: 50px;
+  }
+  
+  .bg2 .fs-1 {
+    color: #fff;
+  }
+  
+  .bg2 .fs-5 {
+    color: #ccc;
+  }
+  
+  .card {
+    background-color: #fff;
+    border: none;
+  }
+  
+  .card-title {
+    color: #333;
+  }
+  
+  .card-text {
+    color: #666;
+  }
+  
+  .social-icon {
+    color: #777;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .social-icon:hover {
+    color: #333;
+  }
+  
+  /* Style for Footer */
+  footer.navbar {
+    background-color: #333;
+  }
+  
+  .footer .nav-item a.nav-link {
+    color: #fff;
+  }
+  
+  .footer .nav-item a.nav-link:hover {
+    color: #ccc;
+  }
+  
+  /* Add more styles as needed */
+  
